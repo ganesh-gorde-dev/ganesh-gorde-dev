@@ -1,16 +1,30 @@
-## Hi there 👋
+### 👋 About Me
 
-<!--
-**ganesh-gorde-dev/ganesh-gorde-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Ganesh Gorde — a passionate **Frontend Developer** from India 🇮🇳 with over **3 years of experience** specializing in **Angular**.
 
-Here are some ideas to get you started:
+🔧 **Tech Stack:**
+- ⚙️ Angular 17/18, TypeScript, JavaScript (ES6+)
+- 🎨 HTML5, CSS3, SCSS, Angular Material, Tailwind CSS
+- 🧪 RxJS, NgRx, Forms (Reactive & Template-driven)
+- 🔗 REST APIs, JWT, OAuth2 (MSAL)
+- 📦 Node.js, Express (basics), Firebase (basics)
+- 🧰 Tools: Git, GitHub, VSCode, Postman, Chrome DevTools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Currently learning:
+- 🔍 Unit testing in Angular (Jasmine/Karma)
+- 📊 Trading bots using Python and Zerodha/Dhan APIs
+- ☁️ AWS fundamentals for frontend deployment
+
+🛠️ Projects:
+- Developed HRMS modules like Login, OTP, Employees, Payroll
+- Integrated mapping with Causeway Elgin and Mapbox
+- Implemented dynamic forms, global filters, validation systems
+
+📫 How to reach me:
+- 📧 ganeshgorde.dev@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 🌐 [Portfolio Website](https://your-portfolio.com) *(if any)*
+
+---
+
+⭐ *Let’s build something great together!*
