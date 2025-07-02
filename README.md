@@ -12,17 +12,16 @@ Hi, I'm Ganesh Gorde — a passionate **Frontend Developer** from India 🇮🇳
 
 📈 Currently learning:
 - 🔍 Unit testing in Angular (Jasmine/Karma)
-- 📊 Trading bots using Python and Zerodha/Dhan APIs
 - ☁️ AWS fundamentals for frontend deployment
 
 🛠️ Projects:
 - Developed HRMS modules like Login, OTP, Employees, Payroll
-- Integrated mapping with Causeway Elgin and Mapbox
-- Implemented dynamic forms, global filters, validation systems
+- Integrated map with Causeway Elgin and Mapbox
+- Implemented dynamic forms, global filters, and validation systems
 
 📫 How to reach me:
 - 📧 ganeshgorde.dev@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ganesh-gorde)
 - 🌐 [Portfolio Website](https://your-portfolio.com) *(if any)*
 
 ---
