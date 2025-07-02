@@ -20,10 +20,9 @@ Hi, I'm Ganesh Gorde — a passionate **Frontend Developer** from India 🇮🇳
 - Implemented dynamic forms, global filters, and validation systems
 
 📫 How to reach me:
-- 📧 ganeshgorde.dev@gmail.com
+- 📧 gordeganesh9696@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/ganesh-gorde)
-- 🌐 [Portfolio Website](https://your-portfolio.com) *(if any)*
-
+  
 ---
 
 ⭐ *Let’s build something great together!*
