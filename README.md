@@ -11,9 +11,6 @@
 
 - 👨‍💻 I’m a **Frontend Developer** with 3+ years of experience, building modern web apps using **Angular**.
 - 🧰 Skilled in: `Angular 17/18`, `TypeScript`, `RxJS`, `NgRx`, `HTML`, `CSS`, `SCSS`, `Material UI`
-- 🗺️ Integrated map libraries like **Mapbox** & **Causeway Elgin**
-- ⚡ Fun Fact: I’m from a **mechanical engineering background** and transitioned into tech 🚀
-
 ---
 
 ### 🛠️ Tech Stack
