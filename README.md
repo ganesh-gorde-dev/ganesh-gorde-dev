@@ -27,5 +27,3 @@ Hi! I'm **Ganesh Gorde**, a passionate **Frontend Developer** with over **3 year
 - 💼 [LinkedIn](https://www.linkedin.com/in/ganesh-gorde)  
 - 📫 Email: gordeganesh9696@gmail.com  
 - 💬 Feel free to reach out about Angular, frontend architecture, or side projects!
-
----
