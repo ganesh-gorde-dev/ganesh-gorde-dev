@@ -29,7 +29,3 @@ Hi! I'm **Ganesh Gorde**, a passionate **Frontend Developer** with over **3 year
 - 💬 Feel free to reach out about Angular, frontend architecture, or side projects!
 
 ---
-
-### 🧾 Fun Fact
-
-I come from a **mechanical engineering** background and transitioned into frontend development—proof that passion + curiosity = endless growth 🚀
