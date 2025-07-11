@@ -6,7 +6,7 @@ Hi! I'm **Ganesh Gorde**, a passionate **Frontend Developer** with over **3 year
 
 ### 🛠️ Tech Stack
 
-- **Frontend**: Angular 11+, TypeScript, HTML5, SCSS, TailwindCSS
+- **Frontend**: Angular 11+, TypeScript, HTML5, CSS3, SCSS, Bootstrap, TailwindCSS
 - **State Management**: NgRx, Signal Store
 - **UI Libraries**: Angular Material, PrimeNG
 - **Others**: RxJS, Chart.js, Mapbox, REST APIs, Git, AWS CodeCommit
